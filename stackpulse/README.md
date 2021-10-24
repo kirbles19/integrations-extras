@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [Torq][1] integration enables you to trigger automatic playbooks in response to Datadog alerts, providing alert enrichment, incident mitigation, and collaboration. You can then send back events from your playbook executions directly to your Datadog event stream and dedicated Torq dashboard.
+The [Torq][1] integration enables you to trigger workflows in response to Datadog alerts, providing alert enrichment. You can then send back events directly from your Torq workflows to your Datadog event stream and dedicated Torq dashboard.
 
 ## Setup the Torq integration
 
